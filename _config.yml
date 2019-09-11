@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jiang Chaoyang"
+title                    : "About Me"
 title_separator          : "-"
 name                     : &name "Jiang Chaoyang"
 description              : &description "Associate Professor， Beijing Institute of Technology, Beijing, China"
