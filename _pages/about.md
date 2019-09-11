@@ -8,15 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-* I am currently a Scientist at [Institute for Infocomm Research](https://www.a-star.edu.sg/i2r), Agency for Science, Technology and Research (A*STAR), Singapore.
+* I am currently an Associate professor at School of Mechnical Engineering, [Beijing Institute of Technology](https://bit.edu.cn/), Beijing China.
 
-* I obtained my Bachelor’s Degree from [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/) at 2011 and PhD's Degree from [Nanyang Technological University (NTU), Singapore](https://www.ntu.edu.sg/Pages/home.aspx) at 2017 under the supervision of Prof. [Yeng Chai Soh](http://research.ntu.edu.sg/expertise/academicprofile/pages/StaffProfile.aspx?ST_EMAILID=EYCSOH). After graduation, I have been working at NTU as a Research Fellow under the supervision of IEEE Fellow, IFAC Fellow, Prof. [Lihua Xie](http://research.ntu.edu.sg/expertise/academicprofile/pages/StaffProfile.aspx?ST_EMAILID=elhxie).
+* I obtained my Bachelor Degree from [China University of Mining Technology](https://cumt.edu.cn/) at 2009, Master Degree from [Harbin Institute of Technology] (https://hit.edu.cn) at 2011, and Ph.D Degree from [Nanyang Technological University (NTU), Singapore](https://www.ntu.edu.sg/Pages/home.aspx) at 2017 under the supervision of Prof. [Yeng Chai Soh](http://research.ntu.edu.sg/expertise/academicprofile/pages/StaffProfile.aspx?ST_EMAILID=EYCSOH) and Assoc. Prof. [Hua Li](http://research.ntu.edu.sg/expertise/academicprofile/pages/StaffProfile.aspx?ST_EMAILID=LIHUA). After the Ph.D study, I have been working at NTU as a Research Fellow under the supervision of Assoc. Prof. [Rong Su](http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=rsu).
 
-* My research interest is machine learning and deep learning based intelligent occupant sensing in smart buildings, particularly in occupancy estimation, indoor localization and human activity recognition.
+* My research interest is statistical signal processing, statistical learning, information fusion, and their applications in intelligent vehicles and smart city. 
 
 
 # Recent News
-* One paper entitled "Light Sensor Based Occupancy Estimation via Bayes Filter with Neural Networks" has been accepted by <b>IEEE Transactions on Industrial Electronics </b>.
-* One paper entitled "WiFi Fingerprinting Indoor Localization Using Local Feature-based Deep LSTM" has been accepted by <b>IEEE Systems Journal </b>.
-* Call for Journal Paper: We are orgnizing a special issue at [Elsevier Neurocomputing](https://www.journals.elsevier.com/neurocomputing) (IF: 3.241), [Special Issue on Deep Learning for Human Activity Recognition](https://www.journals.elsevier.com/neurocomputing/call-for-papers/special-issue-on-deep-learning-for-human-activity-recognitio). <b> The submission deadline is September 1, 2019.</b>
-* Call for Top AI Workshop Paper: We are orgnizing a workshop at [IJCAI](https://ijcai19.org/) 2019, named "Deep Learning for Human Activity Recognition". <b>The submission deadline is May 9, 2019.</b>
+* Welcome Mr. Wang Kang and Mr. Sheng Shuxuan joining our group.
+* One paper entitled "[Light Sensor Based Occupancy Estimation via Bayes Filter with Neural Networks] (https://ieeexplore.ieee.org/abstract/document/8798996)" accepted by <b>IEEE Transactions on Industrial Electronics </b> is online available.
+
