@@ -16,6 +16,6 @@ redirect_from:
 
 
 # Recent News
-* Welcome Mr. Wang Kang and Mr. Sheng Shuxuan joining our group.
-* One paper entitled "[Light Sensor Based Occupancy Estimation via Bayes Filter with Neural Networks](https://ieeexplore.ieee.org/abstract/document/8798996)" accepted by <b>IEEE Transactions on Industrial Electronics </b> is online available.
+* Welcome Mr. Wang Kang and Mr. Sheng Shuxuan joining our Research group.
+* One paper entitled "[Light Sensor Based Occupancy Estimation via Bayes Filter with Neural Networks](https://ieeexplore.ieee.org/abstract/document/8798996)" is accepted by <b>IEEE Transactions on Industrial Electronics </b>.
 
