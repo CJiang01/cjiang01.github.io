@@ -13,7 +13,7 @@ name                     : &name "Jiang Chaoyang"
 description              : &description "Associate Professor， Beijing Institute of Technology, Beijing, China"
 url                      : https://cjiang01.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Cjiang01/cjiang01.github.io"
+repository               : "CJiang01/cjiang01.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Chen Zhenghua"
-  avatar           : "ChenZhenghua.jpg"
-  bio              : "Scientist at I2R, A*STAR, Singapore"
-  location         : "Singapore"
+  name             : "Jiang Chaoyang"
+  avatar           : "JiangChaoyang.jpg"
+  bio              : "Associate Professor, School of Mechanical Engineering, Beijing Institute of Technology"
+  location         : "Beijing, China"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com.sg/citations?user=WUgu3nwAAAAJ&hl=en"
-  #email            : "chen0832@e.ntu.edu.sg"
-  researchgate     :  "https://www.researchgate.net/profile/Zhenghua_Chen"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=0-T9nE0AAAAJ"
+  #email            : "cjiang@bit.edu.cn"
+  researchgate     :  "https://www.researchgate.net/profile/Chaoyang_Jiang"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  #github           : "ZhenghuaNTU"
+  #github           : "CJiang01"
   google_plus      :
   keybase          :
   instagram        :
