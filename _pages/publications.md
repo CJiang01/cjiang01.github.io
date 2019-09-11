@@ -30,12 +30,12 @@ Zhenghua Chen, Le Zhang, <b>Chaoyang Jiang</b>, Zhiguang Cao, Wei Cui,<br>
 <i>IEEE Transactions on Mobile Computing</i>, 2018. 
 
 1. <b>[A Novel Ensemble ELM for Human Activity Recognition Using Smartphone Sensors](https://ieeexplore.ieee.org/abstract/document/8462779)</b> <br> 
-Zhenghua Chen, <b>Chaoyang Jiang*</b>, Lihua Xie,<br>
+Zhenghua Chen, <b>Chaoyang Jiang* </b>, Lihua Xie,<br>
 <i>IEEE Transactions on Industrial Informatics</i>, vol. 15, no. 5, pp. 2691 - 2699, 2019. (* <b>Corresponding Author</b>)
 
 
 1. <b>[Building occupancy modeling using generative adversarial network](https://www.sciencedirect.com/science/article/pii/S0378778818310831)</b> <br> 
-Zhenghua Chen, <b>Chaoyang Jiang*<\b>,<br>
+Zhenghua Chen, <b>Chaoyang Jiang* </b>,<br>
 <i>Energy and Buildings</i>, vol. 174, pp. 372-379, 2018. (* <b>Corresponding Author</b>)
 
 1. <b>[Building Occupancy Estimation and Detection: A Review](https://www.sciencedirect.com/science/article/pii/S0378778818301506)</b> <br> 
@@ -98,4 +98,4 @@ Hongming Zhou, Yeng Chai Soh, <b>Chaoyang Jiang</b>, and Xiaoying Wu<br>
 
 1. <b>Some results on Kalman filtering with linear equality state constraints</b><br>
 <b>Chaoyang Jiang</b>, and Yong-An Zhang<br>
-<i> IEEE Conference on Industrial Electronics and Applications (ICIEA),</i>, pp. 1000-1005, 2011.
+<i> IEEE Conference on Industrial Electronics and Applications (ICIEA),</i> pp. 1000-1005, 2011.
