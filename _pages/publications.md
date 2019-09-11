@@ -6,7 +6,7 @@ author_profile: true
 
 ## Book Chapter
 1. <b>Deep Learning for Building Occupancy Estimation Using Environmental Sensors</b> <br> 
-Zhenghua Chen, <b>Chaoyang Jiang<\b>, Mustafa K. Masood, Yeng Chai Soh, Min Wu, Xiaoli Li,<br> in book
+Zhenghua Chen, <b>Chaoyang Jiang</b>, Mustafa K. Masood, Yeng Chai Soh, Min Wu, Xiaoli Li,<br> in book
 "Deep Learning: Algorithms and Applications", <i>Springer</i>, to be published in 2019.
 
 
