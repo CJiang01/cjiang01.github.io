@@ -66,6 +66,10 @@ Xiaoli Zhou, Hua Li, Yeng Chai Soh, and <b>Chaoyang Jiang</b>,<br>
 <b>Chaoyang Jiang</b>, Mustafa K. Masood, Yeng Chai Soh, and Hua Li<br>
 <i>Energy and Buildings</i>, vol. 131, pp. 132-141, 2016.
 
+1. <b>[Sensor and CFD data fusion for airflow field estimation](https://www.sciencedirect.com/science/article/pii/S1359431115010030)</b> <br> 
+<b>Chaoyang Jiang</b>, Yeng Chai Soh, and Hua Li<br>
+<i>Applied Thermal Engineering</i>, vol. 92, pp.149-161, 2016.
+
 1. <b>[Sensor placement by maximal projection on minimum eigenspace for linear inverse problems](https://ieeexplore.ieee.org/abstract/document/7480383)</b> <br> 
 <b>Chaoyang Jiang</b>, Yeng Chai Soh, and Hua Li<br>
 <i>IEEE Transactions on Signal Processing</i>, vol. 64, no. 21, pp.5595-5610, 2016.
