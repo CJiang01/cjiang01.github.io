@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chen Zhenghua"
+title                    : "Jiang Chaoyang"
 title_separator          : "-"
-name                     : &name "Chen Zhenghua"
-description              : &description "Scientist at I2R, A*STAR, Singapore"
-url                      : https://zhenghuantu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Jiang Chaoyang"
+description              : &description "Associate Professor， Beijing Institute of Technology, Beijing, China"
+url                      : https://cjiang01.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ZhenghuaNTU/zhenghuantu.github.io"
+repository               : "Cjiang01/cjiang01.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
