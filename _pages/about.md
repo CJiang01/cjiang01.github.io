@@ -17,9 +17,9 @@ redirect_from:
 
 # Recent News
 * <b>Sep 18,2019 </b><br> 
-  Dr. [Chen Zhenghua](https://zhenghuantu.github.io/) visits our group and gives a  talk: [WiFi-based Localization for GPS-denied environments].
+  Dr. [Chen Zhenghua](https://zhenghuantu.github.io/) visits our group and gives a  talk: <i>WiFi-based Localization for GPS-denied environments</i>.
 * <b>Sep 2,2019 </b><br>
   Welcome Mr. Wang Kang and Mr. Sheng Shuxuan joining our Research group.
 * <b>Aug 14,2019</b> <br>
-  One paper entitled "[Light Sensor Based Occupancy Estimation via Bayes Filter with Neural Networks](https://ieeexplore.ieee.org/abstract/document/8798996)" is accepted by <b>IEEE Transactions on Industrial Electronics </b>.
+  One paper entitled "[Light Sensor Based Occupancy Estimation via Bayes Filter with Neural Networks](https://ieeexplore.ieee.org/abstract/document/8798996)" is accepted by <i>IEEE Transactions on Industrial Electronics </i>.
 
