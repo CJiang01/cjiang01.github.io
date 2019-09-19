@@ -17,7 +17,7 @@ redirect_from:
 
 # Recent News
 * <b>Sep 18,2019 </b><br> 
-  Dr. [Chen Zhenghua](https://zhenghuantu.github.io/) visits our group and gives a  talk: <i>WiFi-based Localization for GPS-denied environments</i>.
+  Dr. [Chen Zhenghua](https://zhenghuantu.github.io/) visited our group and gave a  talk: <i>WiFi-based Localization for GPS-denied environments</i>.
 * <b>Sep 2,2019 </b><br>
   Welcome Mr. Wang Kang and Mr. Sheng Shuxuan joining our Research group.
 * <b>Aug 14,2019</b> <br>
