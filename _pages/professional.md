@@ -4,7 +4,7 @@ title: "Professional Activities"
 permalink: /professional/
 author_profile: true
 ---
-* **Journal Invited Reviewer:**
+* **Journal Reviewer:**
   * IEEE Transactions on Industrial Informatics
   * IEEE Transactions on Signal Processing
   * IEEE Transactions on Human-Machine Systems
