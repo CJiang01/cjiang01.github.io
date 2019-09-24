@@ -1,20 +1,15 @@
 ---
-title: "Teaching experience 2"
+title: "Matrix Analysis"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate Course"
+permalink: /teaching/Matrix-Analysis-Undergraduate
+venue: "Beijing Institute of Technology, Liangxiang Campus"
+date: from the 2019-2020 school year
+location: "Beijing, China"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
-======
+Unmanned Vehicle Technique
+==========================
 
-Heading 2
-======
-
-Heading 3
-======
