@@ -2,7 +2,7 @@
 title: "Matrix Analysis"
 collection: teaching
 type: "Undergraduate Course"
-permalink: /teaching/Matrix-Analysis-Undergraduate
+permalink: /teaching/2019-09-24-Matrix-Analysis-Undergraduate
 venue: "Beijing Institute of Technology, Liangxiang Campus"
 date: from the 2019-2020 school year
 location: "Beijing, China"
