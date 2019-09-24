@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Beijing Institute of Technology, Liangxiang Campus"
-date: 2019-10-09
+date: 2019-09-09
 location: "Beijing, China"
 ---
 
