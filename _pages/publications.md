@@ -11,6 +11,10 @@ Zhenghua Chen, <b>Chaoyang Jiang</b>, Mustafa K. Masood, Yeng Chai Soh, Min Wu, 
 
 
 ## Journal Publications
+1. <b>[Smartphone Sensor Based Human Activity Recognition Using Feature Fusion and Maximum Full A Posteriori](https://ieeexplore.ieee.org/document/8856227)</b> <br> 
+Zhenghua Chen, <b>Chaoyang Jiang*</b>, Shili Xiang, Jie Ding, Min Wu, Xiaoli Li,<br>
+<i>IEEE Transactions on Insturmentation and Measurement</i>, 2019.(* <b>Corresponding Author</b>)
+
 
 1. <b>[Light Sensor Based Occupancy Estimation via Bayes Filter with Neural Networks](https://ieeexplore.ieee.org/document/8798996)</b> <br> 
 Zhenghua Chen, Yanbing Yang, <b>Chaoyang Jiang</b>, Jie Hao and Le Zhang,<br>
@@ -27,7 +31,7 @@ Ethan Png, Seshadhri Srinivasan, Korkut Bekiroglu, <b>Chaoyang Jiang</b>, Rong S
 
 1. <b>[WiFi CSI Based Passive Human Activity Recognition Using Attention Based BLSTM](https://ieeexplore.ieee.org/abstract/document/8514811)</b> <br> 
 Zhenghua Chen, Le Zhang, <b>Chaoyang Jiang</b>, Zhiguang Cao, Wei Cui,<br>
-<i>IEEE Transactions on Mobile Computing</i>, 2018. 
+<i>IEEE Transactions on Mobile Computing</i>, vol. 18, no. 11, pp. 2714-2724, 2019. 
 
 1. <b>[A Novel Ensemble ELM for Human Activity Recognition Using Smartphone Sensors](https://ieeexplore.ieee.org/abstract/document/8462779)</b> <br> 
 Zhenghua Chen, <b>Chaoyang Jiang* </b>, Lihua Xie,<br>
