@@ -17,7 +17,7 @@ redirect_from:
 
 # Recent News
 * <b>Sep 24,2019</b> <br>
-  One paper entitled "Smartphone Sensor Based Human Activity Recognition Using Feature Fusion and Maximum Full A Posteriori" is accepted by <i>IEEE Transactions on Instrumentation and Measurement </i>.
+  One paper entitled "[Smartphone Sensor Based Human Activity Recognition Using Feature Fusion and Maximum Full A Posteriori](https://ieeexplore.ieee.org/document/8856227)" is accepted by <i>IEEE Transactions on Instrumentation and Measurement </i>.
 * <b>Sep 18,2019 </b><br> 
   Dr. [Chen Zhenghua](https://zhenghuantu.github.io/) visited our group and gave a  talk: <i>WiFi-based Localization for GPS-denied environments</i>.
 * <b>Sep 2,2019 </b><br>
