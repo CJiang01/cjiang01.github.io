@@ -50,7 +50,7 @@ Zhenghua Chen, <b>Chaoyang Jiang</b>, Lihua Xie,<br>
 Mustafa K. Masood, <b>Chaoyang Jiang</b>, Yeng Chai Soh,<br>
 <i>Energy and Buildings</i>, vol. 158, pp. 1139-1151, 2018.
 
-1. <b>[Occupancy estimation from environmental parameters using wrapper and hybrid feature selection](Occupancy estimation from environmental parameters using wrapper and hybrid feature selection)</b> <br> 
+1. <b>[Occupancy estimation from environmental parameters using wrapper and hybrid feature selection](https://www.sciencedirect.com/science/article/pii/S1568494617304040)</b> <br> 
 Mustafa K. Masood,  Yeng Chai Soh, <b>Chaoyang Jiang</b> <br>
 <i>Applied Soft Computing</i>, vol. 60, pp. 482-494, 2017
 
