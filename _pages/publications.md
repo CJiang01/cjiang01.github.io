@@ -11,8 +11,8 @@ Zhenghua Chen, <b>Chaoyang Jiang</b>, Mustafa K. Masood, Yeng Chai Soh, Min Wu, 
 
 
 ## Journal Publications
-1. <b>[Smartphone Sensor Based Human Activity Recognition Using Feature Fusion and Maximum Full A Posteriori](https://ieeexplore.ieee.org/document/8856227)</b> <br> 
-Zhenghua Chen, <b>Chaoyang Jiang*</b>, Shili Xiang, Jie Ding, Min Wu, Xiaoli Li,<br>
+1. <b>[Smartphone Sensor Based Human Activity Recognition Using Feature Fusion and Maximum Full A Posteriori](https://ieeexplore.ieee.org/document/8856227)</b> <br>
+Zhenghua Chen, <b>Chaoyang Jiang* </b>, Shili Xiang, Jie Ding, Min Wu, Xiaoli Li,<br>
 <i>IEEE Transactions on Insturmentation and Measurement</i>, 2019.(* <b>Corresponding Author</b>)
 
 
