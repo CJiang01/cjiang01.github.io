@@ -12,7 +12,7 @@ redirect_from:
 
 * I obtained my Bachelor Degree from [China University of Mining and Technology](http://www.cumt.edu.cn) at 2009, Master Degree from [Harbin Institute of Technology](http://www.hit.edu.cn) at 2011, and Ph.D Degree from [Nanyang Technological University (NTU), Singapore](https://www.ntu.edu.sg/Pages/home.aspx) at 2017 under the supervision of Prof. [Yeng Chai Soh](http://research.ntu.edu.sg/expertise/academicprofile/pages/StaffProfile.aspx?ST_EMAILID=EYCSOH) and Prof. [Hua Li](http://research.ntu.edu.sg/expertise/academicprofile/pages/StaffProfile.aspx?ST_EMAILID=LIHUA). After the Ph.D study, I have been working at NTU as a Research Fellow under the supervision of Prof. [Rong Su](http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=rsu).
 
-* My research interest is statistical signal processing, statistical learning, information fusion, and their applications in intelligent vehicles and smart city. 
+* My research interest include statistical signal processing, statistical learning, information fusion, and their applications in intelligent vehicles and smart city. 
 
 
 # Recent News
