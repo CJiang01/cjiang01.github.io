@@ -82,7 +82,7 @@ Xiaoli Zhou, Hua Li, Yeng Chai Soh, and <b>Chaoyang Jiang</b>,<br>
 <b>Chaoyang Jiang</b> and Yong-An Zhang<br>
 <i>International Journal of Control</i>, vol. 86, no. 12, pp.2115-2130, 2013.
 
-1. <b>[Reduced-order Kalman filtering for state constrained linear systems](https://ieeexplore.ieee.org/abstract/document/6587340/)</b> <br> 
+1. <b>[Reduced-order Kalman filtering for state constrained linear systems](https://www.researchgate.net/publication/260650962_Reduced-order_Kalman_filtering_for_state_constrained_linear_systems)</b> <br> 
 <b>Chaoyang Jiang</b>, and Yong-An Zhang<br>
 <i>Journal of Systems Engineering and Electronics</i>, vol. 24, no. 4, pp.674-682, 2013.
 
