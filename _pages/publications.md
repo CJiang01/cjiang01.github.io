@@ -93,7 +93,7 @@ Xiaoli Zhou, Hua Li, Yeng Chai Soh, and <b>Chaoyang Jiang</b>,<br>
 <i>International Conference on Control, Automation, Automation, RObotics and Vision(ICARCV)</i>, 2018.
 
 1. <b>Improvement of Energy Efficiency of Markov ACMV Systems based on PTS Information of Occupants</b><br>
-Deqing Zhai, Tanaya Chaudhuri, Yeng Chai SOh, Xianhua Ou, and <b>Chaoyang Jiang</b>,<br>
+Deqing Zhai, Tanaya Chaudhuri, Yeng Chai Soh, Xianhua Ou, and <b>Chaoyang Jiang</b>,<br>
 <i> International Joint Conference on Neural Network(IJCNN), 2018
 
 1. <b>Physical field estimation from CFD database and sparse sensor observations</b><br>
