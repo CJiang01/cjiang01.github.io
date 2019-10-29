@@ -4,7 +4,6 @@ title: "Professional Activities"
 permalink: /professional/
 author_profile: true
 ---
-
 * Member of the Technical Committee on Smart Cities in the IEEE Control Systems Society.
 
 * **Journal Invited Reviewer:**
