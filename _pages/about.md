@@ -17,6 +17,9 @@ Statistical signal processing; Statistical learning; Information fusion; Applica
 
 
 # Recent News
+* <b>Oct 29,2019</b> <br>
+  One book chapter entitled "[Deep Learning for Building Occupancy Estimation Using Environmental Sensors](https://link.springer.com/chapter/10.1007/978-3-030-31760-7_11)" has been published in book <i>Deep Learning: Algorithms and Applications </i>, Springer, Cham, 2020.
+* <b>Sep 18,2019 </b><br> 
 * <b>Sep 24,2019</b> <br>
   One paper entitled "[Smartphone Sensor Based Human Activity Recognition Using Feature Fusion and Maximum Full A Posteriori](https://ieeexplore.ieee.org/document/8856227)" is accepted by <i>IEEE Transactions on Instrumentation and Measurement </i>.
 * <b>Sep 18,2019 </b><br> 
