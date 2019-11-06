@@ -17,6 +17,8 @@ Statistical signal processing; Statistical learning; Information fusion; Applica
 
 
 # Recent News
+* <b>Nov 6,2019</b> <br>
+  Our paper "[Bayesian filtering for building occupancy estimation from carbon dioxide concentration](https://www.sciencedirect.com/science/article/pii/S0378778819312721)" is published by <i>Energy and Buildings </i>.
 * <b>Oct 29,2019</b> <br>
   One book chapter entitled "[Deep Learning for Building Occupancy Estimation Using Environmental Sensors](https://link.springer.com/chapter/10.1007/978-3-030-31760-7_11)" has been published in book <i>Deep Learning: Algorithms and Applications </i>, Springer, Cham, 2020.
 * <b>Sep 24,2019</b> <br>
@@ -24,7 +26,7 @@ Statistical signal processing; Statistical learning; Information fusion; Applica
 * <b>Sep 18,2019 </b><br> 
   Dr. [Chen Zhenghua](https://zhenghuantu.github.io/) visited our group and gave a  talk: <i>WiFi-based Localization for GPS-denied environments</i>.
 * <b>Sep 2,2019 </b><br>
-  Welcome Mr. Wang Kang and Mr. Sheng Shuxuan joining our Research group.
+  Welcome Mr. Wang Kang and Mr. Sheng Shuxuan joining our group.
 * <b>Aug 14,2019</b> <br>
   One paper entitled "[Light Sensor Based Occupancy Estimation via Bayes Filter with Neural Networks](https://ieeexplore.ieee.org/abstract/document/8798996)" is accepted by <i>IEEE Transactions on Industrial Electronics </i>.
 
