@@ -7,10 +7,15 @@ author_profile: true
 ## Book Chapter
 1. <b>[Deep Learning for Building Occupancy Estimation Using Environmental Sensors](https://link.springer.com/chapter/10.1007/978-3-030-31760-7_11)</b> <br> 
 Zhenghua Chen, <b>Chaoyang Jiang</b>, Mustafa K. Masood, Yeng Chai Soh, Min Wu, Xiaoli Li,<br> in book
-"Deep Learning: Algorithms and Applications", <i>Springer</i>, 2020.
+"Deep Learning: Algorithms and Applications", <i>Springer, Cham</i>, 2020.
 
 
 ## Journal Publications
+1. <b>[Bayesian filtering for building occupancy estimation from carbon dioxide concentration](https://www.sciencedirect.com/science/article/pii/S0378778819312721)</b> <br>
+<b>Chaoyang Jiang</b>, Zhenghua Chen, Rong Su,  Mustafa K. Masood, Yeng Chai Soh,<br>
+<i>Energy and Buildings</i>, vol. 206, 109566, 2019.
+
+
 1. <b>[Smartphone Sensor Based Human Activity Recognition Using Feature Fusion and Maximum Full A Posteriori](https://ieeexplore.ieee.org/document/8856227)</b> <br>
 Zhenghua Chen, <b>Chaoyang Jiang* </b>, Shili Xiang, Jie Ding, Min Wu, Xiaoli Li,<br>
 <i>IEEE Transactions on Insturmentation and Measurement</i>, 2019.(* <b>Corresponding Author</b>)
