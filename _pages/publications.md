@@ -93,22 +93,26 @@ Xiaoli Zhou, Hua Li, Yeng Chai Soh, and <b>Chaoyang Jiang</b>,<br>
 
 ## Conference Publications
 
-1. <b>Building Occupancy Detection from Carbon-dioxide and Motion Sensors</b><br>
+1. <b>[Building Occupancy Detection from Carbon-dioxide and Motion Sensors](https://ieeexplore.ieee.org/abstract/document/8581229)</b><br>
 <b>Chaoyang Jiang</b>, Zhenghua Chen, Lih Chieh Png, Korkut Bekiroglu, Seshadhri Srinivasan, Rong Su,<br>
 <i>International Conference on Control, Automation, Automation, RObotics and Vision(ICARCV)</i>, 2018.
 
-1. <b>Improvement of Energy Efficiency of Markov ACMV Systems based on PTS Information of Occupants</b><br>
+1. <b>[Improvement of Energy Efficiency of Markov ACMV Systems based on PTS Information of Occupants](https://ieeexplore.ieee.org/abstract/document/8489214/)</b><br>
 Deqing Zhai, Tanaya Chaudhuri, Yeng Chai Soh, Xianhua Ou, and <b>Chaoyang Jiang</b>,<br>
 <i> International Joint Conference on Neural Network(IJCNN), 2018
 
-1. <b>Physical field estimation from CFD database and sparse sensor observations</b><br>
+1. <b>[Physical field estimation from CFD database and sparse sensor observations](https://ieeexplore.ieee.org/abstract/document/7294277/)</b><br>
 <b>Chaoyang Jiang</b>, Yeng Chai Soh, and Hua Li,<br>
 <i>IEEE International Conference on Automation Science and Engineering (CASE)</i>, 2015
 
-1. <b>Compressed representation learning for fluid field reconstruction from sparse sensor observations</b><br>
+1. <b>[Compressed representation learning for fluid field reconstruction from sparse sensor observations](https://ieeexplore.ieee.org/abstract/document/7280519/)</b><br>
 Hongming Zhou, Yeng Chai Soh, <b>Chaoyang Jiang</b>, and Xiaoying Wu<br>
-<i> International Joint Conference on Neural Network(IJCNN), 2015
+<i> International Joint Conference on Neural Network(IJCNN)<i>, 2015
 
-1. <b>Some results on Kalman filtering with linear equality state constraints</b><br>
+1. <b>[ELM based fast cfd model with sensor adjustment](https://link.springer.com/chapter/10.1007/978-3-319-14066-7_34)</b><br>
+Hongming Zhou, Yeng Chai Soh, <b>Chaoyang Jiang</b>, and Wenjiang Cai<br>
+<i> Proceedings of ELM-2014<i>, Vol. 2, pp. 357-367, 2014
+
+1. <b>[Some results on Kalman filtering with linear equality state constraints](https://ieeexplore.ieee.org/abstract/document/5975734/)</b><br>
 <b>Chaoyang Jiang</b>, and Yong-An Zhang<br>
 <i> IEEE Conference on Industrial Electronics and Applications (ICIEA),</i> pp. 1000-1005, 2011.
