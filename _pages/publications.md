@@ -13,7 +13,7 @@ Zhenghua Chen, <b>Chaoyang Jiang</b>, Mustafa K. Masood, Yeng Chai Soh, Min Wu, 
 ## Journal Publications
 1. <b>[Bayesian filtering for building occupancy estimation from carbon dioxide concentration](https://www.sciencedirect.com/science/article/pii/S0378778819312721)</b> <br>
 <b>Chaoyang Jiang</b>, Zhenghua Chen, Rong Su,  Mustafa K. Masood, Yeng Chai Soh<br>
-<i>Energy and Buildings</i>, vol. 206, 109566, 2019.
+<i>Energy and Buildings</i>, vol. 206, 109566, 2020.
 
 
 1. <b>[Smartphone Sensor Based Human Activity Recognition Using Feature Fusion and Maximum Full A Posteriori](https://ieeexplore.ieee.org/document/8856227)</b> <br>
