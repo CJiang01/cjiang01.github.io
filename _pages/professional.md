@@ -7,6 +7,7 @@ author_profile: true
 * Member of the Technical Committee on Smart Cities in the IEEE Control Systems Society.
 
 * **Journal Invited Reviewer:**
+  * IEEE Internet of Things Journal
   * IEEE Transactions on Industrial Informatics
   * IEEE Transactions on Signal Processing
   * IEEE Transactions on Human-Machine Systems
@@ -16,4 +17,3 @@ author_profile: true
   * Applied Thermal Engineering
   * International Journal of Control
   * International Journal of Distributed Sensor Networks
- 
