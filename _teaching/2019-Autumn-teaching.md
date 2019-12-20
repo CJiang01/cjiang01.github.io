@@ -3,7 +3,7 @@ title: "Unmanned Vehicle Technique"
 collection: teaching
 type: "Postgraduate Course"
 permalink: /teaching/2019-Autumn-teaching
-venue: "Beijing Institute of Technology, Zhongguancun Campus"
+venue: "Zhongguancun8-3002, Beijing Institute of Technology"
 date: 2019-09-16
 location: "Beijing, China"
 ---
