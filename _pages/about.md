@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-* I am currently an associate professor with the Sepcial Vehicle Research Center, School of Mechnical Engineering, [Beijing Institute of Technology](http://www.bit.edu.cn), Beijing, China.
+* I am currently an associate professor with the Special Vehicle Research Center, School of Mechanical Engineering, [Beijing Institute of Technology](http://www.bit.edu.cn), Beijing, China.
 
 * I received the B.Eng. degree in electrical engineering and automation from China University of Mining and Technology in 2009, the M.Eng. degree in control science and engineering from Harbin Institute of Technology in 2011, and the Ph.D. degree in electrical and electronic engineering from Nanyang Technological University (NTU), Singapore, in 2017.
 
@@ -17,6 +17,8 @@ Statistical signal processing; Statistical learning; Information fusion; Applica
 
 
 # Recent News
+* <b>Dec 10,2019</b> <br>
+ CFP: [Special Session on Advanced techniques towards more electrified and intelligent mobility Our paper](http://www.ieeeiciea.org/2020/special-session-on-advanced-techniques-towards-more-electrified-and-intelligent-mobility/) for [The 15th IEEE Conference on Industrial Electronics and Applications (ICIEA2020)](http://www.ieeeiciea.org/2020/). The deadline line is <b>31 January</b>.
 * <b>Nov 6,2019</b> <br>
   Our paper "[Bayesian filtering for building occupancy estimation from carbon dioxide concentration](https://www.sciencedirect.com/science/article/pii/S0378778819312721)" is published by <i>Energy and Buildings </i>.
 * <b>Oct 29,2019</b> <br>
@@ -26,7 +28,7 @@ Statistical signal processing; Statistical learning; Information fusion; Applica
 * <b>Sep 18,2019 </b><br> 
   Dr. [Chen Zhenghua](https://zhenghuantu.github.io/) visited our group and gave a  talk: <i>WiFi-based Localization for GPS-denied environments</i>.
 * <b>Sep 2,2019 </b><br>
-  Welcome Mr. Wang Kang and Mr. Sheng Shuxuan joining our group.
+  Welcome, Mr. Wang Kang and Mr. Sheng Shuxuan joining our group.
 * <b>Aug 14,2019</b> <br>
   One paper entitled "[Light Sensor Based Occupancy Estimation via Bayes Filter with Neural Networks](https://ieeexplore.ieee.org/abstract/document/8798996)" is accepted by <i>IEEE Transactions on Industrial Electronics </i>.
 
