@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/2020-Spring-teaching
 venue: "Liangxiang2-B102, Beijing Institute of Technology"
-date: 2019-12-20
+date: 2020-04-20
 location: "Beijing, China"
 ---
 
