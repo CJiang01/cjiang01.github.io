@@ -18,7 +18,7 @@ Statistical signal processing; Statistical learning; Information fusion; Applica
 
 # Recent News
 * <b>Dec 10,2019</b> <br>
- CFP: [Special Session on Advanced techniques towards more electrified and intelligent mobility Our paper](http://www.ieeeiciea.org/2020/special-session-on-advanced-techniques-towards-more-electrified-and-intelligent-mobility/) for [The 15th IEEE Conference on Industrial Electronics and Applications (ICIEA2020)](http://www.ieeeiciea.org/2020/). The deadline line is <b>31 January</b>.
+ CFP: [Special Session on Advanced techniques towards more electrified and intelligent mobility Our paper](http://www.ieeeiciea.org/2020/special-session-on-advanced-techniques-towards-more-electrified-and-intelligent-mobility/) for [The 15th IEEE Conference on Industrial Electronics and Applications (ICIEA2020)](http://www.ieeeiciea.org/2020/). The deadline line is <b>31 January,2020</b>.
 * <b>Nov 6,2019</b> <br>
   Our paper "[Bayesian filtering for building occupancy estimation from carbon dioxide concentration](https://www.sciencedirect.com/science/article/pii/S0378778819312721)" is published by <i>Energy and Buildings </i>.
 * <b>Oct 29,2019</b> <br>
