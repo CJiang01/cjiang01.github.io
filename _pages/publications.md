@@ -9,7 +9,13 @@ author_profile: true
 Zhenghua Chen, <b>Chaoyang Jiang</b>, Mustafa K. Masood, Yeng Chai Soh, Min Wu, Xiaoli Li,<br> in book
 "Deep Learning: Algorithms and Applications", <i>Springer, Cham</i>, 2020.
 
+## Thesis
+Ph.D Thesis：<b>[Indoor Physical field estimation from sparse sensor observations](https://repository.ntu.edu.sg/handle/10356/72572)</b><br>
+superviserd by Prof. Soh Yeng Chai and Prof. Li Hua.
 
+M. Eng Thesis：<b>Optimal filtering of linear systems with state constraints</b>(in Chinese)<br>
+  supervised by Prof. Zhang Yongan
+  
 ## Journal Publications
 1. <b>[Bayesian filtering for building occupancy estimation from carbon dioxide concentration](https://www.sciencedirect.com/science/article/pii/S0378778819312721)</b> <br>
 <b>Chaoyang Jiang</b>, Zhenghua Chen, Rong Su,  Mustafa K. Masood, Yeng Chai Soh<br>
