@@ -13,7 +13,7 @@ Zhenghua Chen, <b>Chaoyang Jiang</b>, Mustafa K. Masood, Yeng Chai Soh, Min Wu, 
 Ph.D Thesis：<b>[Indoor physical field estimation from sparse sensor observations](https://repository.ntu.edu.sg/handle/10356/72572)</b><br>
                 superviserd by Prof. SOH Yeng Chai and Prof. LI Hua.
 
-M. Eng Thesis：<b>Optimal filtering of linear systems with state constraints</b> (in Chinese)<br>
+M. Eng Thesis：<b>[Optimal filtering of linear systems with state constraints](http://www.wanfangdata.com.cn/details/detail.do?_type=degree&id=D262398#)</b> (in Chinese)<br>
                   supervised by Prof. ZHANG Yongan
   
 ## Journal Publications
