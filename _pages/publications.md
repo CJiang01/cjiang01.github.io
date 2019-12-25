@@ -116,7 +116,7 @@ Hongming Zhou, Yeng Chai Soh, <b>Chaoyang Jiang</b>, and Xiaoying Wu<br>
 <i> International Joint Conference on Neural Network(IJCNN)<i>, 2015
 
 1. <b>[ELM based fast cfd model with sensor adjustment](https://link.springer.com/chapter/10.1007/978-3-319-14066-7_34)</b><br>
-Hongming Zhou, Yeng Chai Soh, <b>Chaoyang Jiang</b>, and Wenjiang Cai<br>
+Hongming Zhou, Yeng Chai Soh, <b>Chaoyang Jiang</b>, and Wenjian Cai<br>
 <i> Proceedings of ELM-2014<i>, Vol. 2, pp. 357-367, 2014
 
 1. <b>[Some results on Kalman filtering with linear equality state constraints](https://ieeexplore.ieee.org/abstract/document/5975734/)</b><br>
