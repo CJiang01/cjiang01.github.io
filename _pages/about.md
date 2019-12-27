@@ -16,7 +16,7 @@ redirect_from:
 Statistical signal processing; Statistical learning; Information fusion; Applications in intelligent vehicles, smart buildings, and smart city. 
 
 
-# Recent News
+# News
 * <b>Dec 10,2019</b> <br>
  CFP: [Special Session on Advanced techniques towards more electrified and intelligent mobility](http://www.ieeeiciea.org/2020/special-session-on-advanced-techniques-towards-more-electrified-and-intelligent-mobility/) for [The 15th IEEE Conference on Industrial Electronics and Applications (ICIEA2020)](http://www.ieeeiciea.org/2020/). The deadline line is <b>31 January,2020</b>.
 * <b>Nov 6,2019</b> <br>
