@@ -10,8 +10,8 @@ Zhenghua Chen, <b>Chaoyang Jiang</b>, Mustafa K. Masood, Yeng Chai Soh, Min Wu, 
 "Deep Learning: Algorithms and Applications", <i>Springer, Cham</i>, 2020.
 
 ## Thesis
-Ph.D Thesis：<b>[Indoor physical field estimation from sparse sensor observations](https://repository.ntu.edu.sg/handle/10356/72572)</b><br>
-                superviserd by Prof. SOH Yeng Chai and Prof. LI Hua.
+Ph.D Thesis：<b>[Indoor physical field estimation from sparse sensor observations](https://dr.ntu.edu.sg/handle/10356/72572)</b><br>
+                supervised by Prof. SOH Yeng Chai and Prof. LI Hua.
 
 M. Eng Thesis：<b>[Optimal filtering of linear systems with state constraints](http://www.wanfangdata.com.cn/details/detail.do?_type=degree&id=D262398#)</b> (in Chinese)<br>
                   supervised by Prof. ZHANG Yongan
