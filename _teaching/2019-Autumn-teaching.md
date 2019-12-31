@@ -8,16 +8,7 @@ date: 2019-09-16
 location: "Beijing, China"
 
 ---
-
-
-
-
 ------
 * Localization of unmanned vehicles
-
-
 * Path planning of unmanned vehicles
-
-
 * Trajectory tracking of unmanned vehicles
-
