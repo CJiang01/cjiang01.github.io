@@ -11,16 +11,7 @@ location: "Beijing, China"
 
 ---
 * Vector Space and Linear Transformations
-
-
 * Eigensystem and Jordan Form
-
-
 * Inner-Product Space and Orthogonality 
-
-
 * Matrix Decomposition
-
-
 * Norm and Series
-
