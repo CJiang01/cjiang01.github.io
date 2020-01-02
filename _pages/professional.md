@@ -6,6 +6,8 @@ author_profile: true
 ---
 * Member of the Technical Committee on Smart Cities in the IEEE Control Systems Society.
 
+* Member of the China Society of Automotive Engineers.
+
 * Organizer of a special session in IEEE ICIEA 2020.
 
 * **Journal Invited Reviewer:**
@@ -17,5 +19,6 @@ author_profile: true
   * Applied Energy
   * Energy and Buildings
   * Applied Thermal Engineering
+  * Sensors
   * International Journal of Control
   * International Journal of Distributed Sensor Networks
