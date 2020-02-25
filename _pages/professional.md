@@ -6,7 +6,7 @@ author_profile: true
 ---
 * Member of the China Society of Automotive Engineers(CSAE).
 
-* Member of Insitute of Electrical and Enlectronics Engineers(IEEE).
+* Member of Institute of Electrical and Electronics Engineers(IEEE).
 
 * Member of the Technical Committee on Smart Cities in the IEEE Control Systems Society.
 
