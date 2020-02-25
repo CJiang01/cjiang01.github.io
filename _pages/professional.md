@@ -4,9 +4,11 @@ title: "Professional Activities"
 permalink: /professional/
 author_profile: true
 ---
-* Member of the Technical Committee on Smart Cities in the IEEE Control Systems Society.
+* Member of the China Society of Automotive Engineers(CSAE).
 
-* Member of the China Society of Automotive Engineers.
+* Member of Insitute of Electrical and Enlectronics Engineers(IEEE).
+
+* Member of the Technical Committee on Smart Cities in the IEEE Control Systems Society.
 
 * Organizer of a special session in IEEE ICIEA 2020.
 
