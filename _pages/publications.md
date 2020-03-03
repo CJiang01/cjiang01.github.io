@@ -101,7 +101,7 @@ Xiaoli Zhou, Hua Li, Yeng Chai Soh, and <b>Chaoyang Jiang</b><br>
 
 1. <b>[Building Occupancy Detection from Carbon-dioxide and Motion Sensors](https://ieeexplore.ieee.org/abstract/document/8581229)</b><br>
 <b>Chaoyang Jiang</b>, Zhenghua Chen, Lih Chieh Png, Korkut Bekiroglu, Seshadhri Srinivasan, Rong Su<br>
-<i>International Conference on Control, Automation, Automation, RObotics and Vision(ICARCV)</i>, 2018.
+<i>International Conference on Control,  Automation, Robotics and Vision(ICARCV)</i>, 2018.
 
 1. <b>[Improvement of Energy Efficiency of Markov ACMV Systems based on PTS Information of Occupants](https://ieeexplore.ieee.org/abstract/document/8489214/)</b><br>
 Deqing Zhai, Tanaya Chaudhuri, Yeng Chai Soh, Xianhua Ou, and <b>Chaoyang Jiang</b><br>
