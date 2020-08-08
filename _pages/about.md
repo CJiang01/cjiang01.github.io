@@ -13,7 +13,7 @@ redirect_from:
 * I received the B.Eng. degree in electrical engineering and automation from China University of Mining and Technology in 2009, the M.Eng. degree in control science and engineering from Harbin Institute of Technology in 2011, and the Ph.D. degree in electrical and electronic engineering from Nanyang Technological University (NTU), Singapore, in 2017.
 
 # Research Interests
-Statistical signal processing; Statistical learning; Information fusion; Applications in intelligent vehicles, smart buildings, and smart city. 
+Statistical learning; Information fusion; Applications in intelligent vehicles, smart buildings, and smart city. 
 
 
 # News
