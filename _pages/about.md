@@ -17,7 +17,7 @@ Statistical signal processing; Statistical learning; Information fusion; Applica
 
 
 # News
-* <b>Dec 10,2019</b> <br>
+* <b>Jun 10,2020</b> <br>
  CFP: [Special Session on Internet of Things (IoT) Based Indoor/Outdoor Localization and Tracking](https://www.icarcv.sg/) for [The 16th International Conference on Control, Automation, Robotics and Vision (ICARCV2020)](https://www.icarcv.sg/). The deadline is <b>15 August,2020</b>.
 * <b>Dec 10,2019</b> <br>
  CFP: [Special Session on Advanced techniques towards more electrified and intelligent mobility](http://www.ieeeiciea.org/2020/special-session-on-advanced-techniques-towards-more-electrified-and-intelligent-mobility/) for [The 15th IEEE Conference on Industrial Electronics and Applications (ICIEA2020)](http://www.ieeeiciea.org/2020/). The deadline is <b>31 January,2020</b>.
