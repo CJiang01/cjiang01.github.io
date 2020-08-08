@@ -10,7 +10,7 @@ redirect_from:
 
 * I am currently an associate professor with the Special Vehicle Research Center, School of Mechanical Engineering, [Beijing Institute of Technology](http://www.bit.edu.cn), Beijing, China.
 
-* I received the B.Eng. degree in electrical engineering and automation from China University of Mining and Technology, China, in 2009, the M.Eng. degree in control science and engineering from Harbin Institute of Technology, China, in 2011, and the Ph.D. degree in electrical and electronic engineering from Nanyang Technological University (NTU), Singapore, in 2017.
+* I received the B.Eng. degree in electrical engineering and automation from China University of Mining and Technology in 2009, the M.Eng. degree in control science and engineering from Harbin Institute of Technology in 2011, and the Ph.D. degree in electrical and electronic engineering from Nanyang Technological University in 2017.
 
 # Research Interests
 Statistical learning; Information fusion; Applications in intelligent vehicles, smart buildings, and smart city. 
