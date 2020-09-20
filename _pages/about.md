@@ -18,6 +18,7 @@ redirect_from:
 # News
 * <b>Sep 20,2020</b> <br>
 Welcome our new group members: MS Wang Xingqi, Mr. Xu Yanjie, MS. Zheng Xiaoni, and Mr. Jia Yifei.
+* <b>Sep 19,2020</b> <br>
 Celebrate the 80th Birthday of Beijing Institute of Technology.
 * <b>Sep 18,2020</b> <br>
  The project 'Cooperative Navigation and Localization for Connected Unmanned Ground Vehicles Under Limited Network researces' has been apporvaled by National Research Fundation, China. 
