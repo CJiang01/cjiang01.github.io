@@ -10,7 +10,7 @@ redirect_from:
 
 * I am currently an associate professor with the Special Vehicle Research Center, School of Mechanical Engineering, [Beijing Institute of Technology](http://www.bit.edu.cn), Beijing, China.
 
-* I received the B.Eng. degree in electrical engineering and automation from China University of Mining and Technology in 2009, the M.Eng. degree in control science and engineering from Harbin Institute of Technology in 2011, and the Ph.D. degree in electrical and electronic engineering from Nanyang Technological University in 2017.
+* I received the B.Eng. degree in electrical engineering and automation from China University of Mining and Technology in 2009, the M.Eng. degree in control science and engineering from Harbin Institute of Technology in 2011, and the Ph.D. degree in electrical and electronic engineering from Nanyang Technological University in 2017. I was with NTU as a Research Fellow before I joined the BIT in Noverber 2018. 
 
 * Research Interests: Statistical learning; Information fusion; Applications in intelligent vehicles and smart city. 
 
@@ -19,7 +19,7 @@ redirect_from:
 * <b>Sep 20,2020</b> <br>
 Welcome our new group members: Ms. Wang Xingqi, Mr. Xu Yanjie, Ms. Zheng Xiaoni, Mr. Jia Yifei and Mr. EMMANUEL O. BOLARINWA.
 * <b>Sep 19,2020</b> <br>
-Celebrate the 80th Birthday of Beijing Institute of Technology.
+Celebrate the 80th Birthday of Beijing Institute of Technology!
 * <b>Sep 18,2020</b> <br>
  The project 'Cooperative Navigation and Localization for Connected Unmanned Ground Vehicles Under Limited Network researces' has been apporvaled by National Research Fundation, China. 
 * <b>Jun 10,2020</b> <br>
