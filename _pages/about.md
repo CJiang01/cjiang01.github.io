@@ -17,7 +17,7 @@ redirect_from:
 
 # News
 * <b>Sep 20,2020</b> <br>
-Welcome our new group members: Ms. Wang Xingqi, Mr. Xu Yanjie, Ms. Zheng Xiaoni, Mr. Jia Yifei and Mr. EMMANUEL O. BOLARINWA.
+Welcome our new group members: Ms. Wang Xingqi, Mr. Xu Yanjie, Ms. Zheng Xiaoni, Mr. Jia Yifei and Mr. Emmanuel O. Bolarinwa.
 * <b>Sep 19,2020</b> <br>
 Celebrate the 80th Birthday of Beijing Institute of Technology!
 * <b>Sep 18,2020</b> <br>
