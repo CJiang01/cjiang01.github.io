@@ -12,11 +12,15 @@ redirect_from:
 
 * I received the B.Eng. degree in electrical engineering and automation from China University of Mining and Technology in 2009, the M.Eng. degree in control science and engineering from Harbin Institute of Technology in 2011, and the Ph.D. degree in electrical and electronic engineering from Nanyang Technological University in 2017.
 
-# Research Interests
-Statistical learning; Information fusion; Applications in intelligent vehicles and smart city. 
+* Research Interests: Statistical learning; Information fusion; Applications in intelligent vehicles and smart city. 
 
 
 # News
+* <b>Sep 20,2020</b> <br>
+Welcome our new group members: MS Wang Xingqi, Mr. Xu Yanjie, MS. Zheng Xiaoni, and Mr. Jia Yifei.
+Celebrate the 80th Birthday of Beijing Institute of Technology.
+* <b>Sep 18,2020</b> <br>
+ The project 'Cooperative Navigation and Localization for Connected Unmanned Ground Vehicles Under Limited Network researces' has been apporvaled by National Research Fundation, China. 
 * <b>Jun 10,2020</b> <br>
  CFP: [Special Session on Internet of Things (IoT) Based Indoor/Outdoor Localization and Tracking](https://www.icarcv.sg/) for The 16th International Conference on Control, Automation, Robotics and Vision (ICARCV2020). The deadline is <b>15 August,2020</b>.
 * <b>Dec 10,2019</b> <br>
