@@ -21,7 +21,7 @@ Welcome our new group members: Ms. Wang Xingqi, Mr. Xu Yanjie, Ms. Zheng Xiaoni,
 * <b>Sep 19,2020</b> <br>
 Celebrate the 80th Birthday of Beijing Institute of Technology!
 * <b>Sep 18,2020</b> <br>
- The project 'Cooperative Navigation and Localization for Connected Unmanned Ground Vehicles Under Limited Network researces' has been apporvaled by National Research Fundation, China. 
+ The project 'Cooperative Navigation and Localization for Connected Unmanned Ground Vehicles Under Limited Network researces' has been apporved by the National Natural Science  Fundation of China. 
 * <b>Jun 10,2020</b> <br>
  CFP: [Special Session on Internet of Things (IoT) Based Indoor/Outdoor Localization and Tracking](https://www.icarcv.sg/) for The 16th International Conference on Control, Automation, Robotics and Vision (ICARCV2020). The deadline is <b>15 August,2020</b>.
 * <b>Dec 10,2019</b> <br>
