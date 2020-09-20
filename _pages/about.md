@@ -10,7 +10,7 @@ redirect_from:
 
 * I am currently an associate professor with the Special Vehicle Research Center, School of Mechanical Engineering, [Beijing Institute of Technology](http://www.bit.edu.cn)(BIT), Beijing, China.
 
-* I received the B.Eng. degree in electrical engineering and automation from China University of Mining and Technology in 2009, the M.Eng. degree in control science and engineering from Harbin Institute of Technology in 2011, and the Ph.D. degree in electrical and electronic engineering from Nanyang Technological University (NTU) in 2017. I was with NTU as a Research Fellow before I joined the BIT in Noverber 2018. 
+* I received the B.Eng. degree in electrical engineering and automation from China University of Mining and Technology in 2009, the M.Eng. degree in control science and engineering from Harbin Institute of Technology in 2011, and the Ph.D. degree in electrical and electronic engineering from Nanyang Technological University (NTU) in 2017. I was with NTU as a Research Fellow before I joined the BIT in Nov. 2018. 
 
 * Research Interests: Statistical learning; Information fusion; Applications in intelligent vehicles and smart city. 
 
@@ -21,7 +21,7 @@ Welcome our new group members: Ms. Wang Xingqi, Mr. Xu Yanjie, Ms. Zheng Xiaoni,
 * <b>Sep 19,2020</b> <br>
 Celebrate the 80th Birthday of Beijing Institute of Technology!
 * <b>Sep 18,2020</b> <br>
- The project 'Cooperative Navigation and Localization for Connected Unmanned Ground Vehicles Under Limited Network researces' has been apporved by the National Natural Science  Fundation of China. 
+ The project 'Cooperative Navigation and Localization for Connected Unmanned Ground Vehicles under Limited Network Resources' has been apporved by the National Natural Science  Fundation of China. 
 * <b>Jun 10,2020</b> <br>
  CFP: [Special Session on Internet of Things (IoT) Based Indoor/Outdoor Localization and Tracking](https://www.icarcv.sg/) for The 16th International Conference on Control, Automation, Robotics and Vision (ICARCV2020). The deadline is <b>15 August,2020</b>.
 * <b>Dec 10,2019</b> <br>
