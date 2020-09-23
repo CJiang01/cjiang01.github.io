@@ -1,6 +1,6 @@
 ---
 <!-- layout: archive -->
-title: "Activities"
+title: "Services"
 permalink: /professional/
 author_profile: true
 ---
