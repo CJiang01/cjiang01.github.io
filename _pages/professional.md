@@ -5,9 +5,9 @@ permalink: /professional/
 author_profile: true
 ---
 * **Membership**
-* China Society of Automotive Engineers(CSAE)
-* Institute of Electrical and Electronics Engineers(IEEE)
-* Technical Committee on Smart Cities in the IEEE Control Systems Society
+  * China Society of Automotive Engineers(CSAE)
+  * Institute of Electrical and Electronics Engineers(IEEE)
+  * Technical Committee on Smart Cities in the IEEE Control Systems Society
 
 * **Organizer**
   * Special session in IEEE ICIEA 2020, ICARCV 2020.
