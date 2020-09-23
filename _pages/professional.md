@@ -1,6 +1,6 @@
 ---
 <!-- layout: archive -->
-title: "Professional Activities"
+title: "Activities"
 permalink: /professional/
 author_profile: true
 ---
