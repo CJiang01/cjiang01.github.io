@@ -10,11 +10,8 @@ main:
   #  url: /awards/    
 
   - title: "Teaching"
-    url: /teaching/    
-    
-  #- title: "Portfolio"
-  #  url: /portfolio/
-        
+    url: /teaching/        
+   
   - title: "Services"
     url: /professional/
     
