@@ -10,7 +10,8 @@ author_profile: true
 
 * Member of the Technical Committee on Smart Cities in the IEEE Control Systems Society.
 
-* Special session organizator: IEEE ICIEA 2020, ICARCV 2020.
+* **Organizator:**
+  * Special session in IEEE ICIEA 2020, ICARCV 2020.
 
 * **Journal Invited Reviewer:**
   * IEEE Internet of Things Journal
