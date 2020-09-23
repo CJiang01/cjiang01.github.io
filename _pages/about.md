@@ -10,7 +10,7 @@ redirect_from:
 
 * I am an associate professor with the Special Vehicle Research Center, School of Mechanical Engineering, [Beijing Institute of Technology](http://www.bit.edu.cn)(BIT), Beijing, China.
 
-* I received the B.Eng. degree in electrical engineering and automation from China University of Mining and Technology in 2009, the M.Eng. degree in control science and engineering from Harbin Institute of Technology in 2011, and the Ph.D. degree in electrical and electronic engineering from Nanyang Technological University (NTU) in 2017. I was with NTU as a Research Fellow before I joined the BIT in Nov. 2018. 
+* I received the B.Eng. degree in 2009 from China University of Mining and Technology, the M.Eng. degree in 2011 from Harbin Institute of Technology, and the Ph.D. degree in 2017 from Nanyang Technological University (NTU), advised by Prof. [SOH Yeng Chai](http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=EYCSOH). I did my post-doctoral research also in NTU, advised by Prof. [SU Rong](https://www3.ntu.edu.sg/home/rsu/), before I joined the BIT in Nov. 2018. 
 
 * Research Interests: Statistical learning; Information fusion; Applications in intelligent vehicles and smart city. 
 
