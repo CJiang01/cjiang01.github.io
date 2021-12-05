@@ -1,16 +1,14 @@
+title: "Paper Title Number 2"
+collection: publications
+permalink: /publication/2010-10-01-paper-title-number-2
+excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+date: 2010-10-01
+venue: 'Journal 1'
+paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
-title: Master Student
-<h2>Wang Xingqi</h2>
-    <img  src="IMG_20210712_184706.jpg" width="258" height="39" />
-    <p style='font-weight:bold;'>Postdoctoral researcher</p>
-    <div class='people-image-container'>
-    <div class='people-description'>
-      <p>I am interested in how people learn complex causal relationships,ice cream.</p>     
-<h2>Sheng Shuxuan</h2>
-    <p style='font-weight:bold;'>Graduate student</p>
-    <div class='people-image-container'>
- <p>I am interested in how people learn complex causal relationships,ice cream.</p>  
-    <h2>Sheng Shuxuan</h2>
-    <p style='font-weight:bold;'>Graduate student</p>
-    <div class='people-image-container'>
- <p>I am interested in how people learn complex causal relationships,ice cream.</p>      
+This paper is about the number 2. The number 3 is left for future work.
+
+[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+
+Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
