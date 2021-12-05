@@ -9,6 +9,6 @@ location: "Beijing, China"
 
 ---
 ------
-* Localization of unmanned vehicles
+* Localization of 
 * Path planning of unmanned vehicles
 * Trajectory tracking of unmanned vehicles
