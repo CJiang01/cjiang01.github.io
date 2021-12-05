@@ -14,4 +14,4 @@ location: "Beijing, China"
 * Eigensystem and Jordan Form
 * Inner-Product Space and Orthogonality 
 * Matrix Decomposition
-* Norm and Series
+* Norm and 
