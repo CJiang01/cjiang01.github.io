@@ -17,11 +17,7 @@ author_profile: true
        <br> **·** Key Project supported by NSFC, China
        <br> **·** Multi-sensor fusion for localization of autonomous vehicles
        <br> **·** Information fusion for environmental cognition     
-* **Information fusion and environmental cognition for intelligent vehicle (Co-PI)** 2021.01-2024.12
-       <br> **·** Key Project supported by NSFC, China
-       <br> **·** Multi-sensor fusion for localization of autonomous vehicles
-       <br> **·** Information fusion for environmental cognition  
-* **Cooperative multi-vehicle localization (PI)** 2021.01-2023.12   
+* **Cooperative multi-vehicle localization (PI)** 2021.01-2023.12
        <br> **·** Supported by NSFC, China
        <br> **·** Fusion of GPS and IMU signals for single vehicle localization.
        <br> **·** Radar for relative localization and UWB for V2V communication.
