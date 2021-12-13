@@ -22,7 +22,7 @@ author_profile: true
        <br> **·** Fusion of GPS and IMU signals for single vehicle localization.
        <br> **·** Radar for relative localization and UWB for V2V communication.
        <br> **·** Information fusion for better global cooperative localization. 
-* **Control for wheel independent motor-drive electric vehicle (PI)** 2018.11-2021.12  
+* **Control for wheel independent motor-drive electric vehicle (PI)** 2018.11-2021.12 
        <br> **·** Supported by National Key Laboratory
        <br> **·** Research on the performance limit and the envelope control of WIMD vehicles.
        <br> **·** Fault-tolerant control for WIMD vehicles.
