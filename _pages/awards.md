@@ -13,6 +13,10 @@ author_profile: true
        <br> **·** Multi-sensor fusion for the localization of air-ground amphibious vehicles.
        <br> **·** Cooperative localization and mapping in GNSS denied environment.
        <br> **·** Cooperative trajectory planning for multi-air-ground amphibious vehicles.
+* **Cooperative localization for vehicles in GNSS denied environment (PI)** 2022.01-2024.12
+       <br> **·** Localization enhancement for INS
+       <br> **·** Multi sensor fusion for robot localization in challenging outdoor environments.
+       <br> **·** Multi-vehicle cooperative for the remove of accelerative error.      
 * **Information fusion and environmental cognition for intelligent vehicle (Co-PI)** 2021.01-2024.12    
        <br> **·** Key Project supported by NSFC, China
        <br> **·** Multi-sensor fusion for localization of autonomous vehicles
