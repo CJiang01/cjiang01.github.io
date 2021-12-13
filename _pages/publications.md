@@ -22,6 +22,11 @@ M. Eng Thesis：<b>[Optimal filtering of linear systems with state constraints](
 <i>Energy and Buildings</i>, vol. 206, 109566, 2020.
 
 
+1. <b>[Deep learning for building occupancy estimation using environmental sensors](https://sc.panda321.com/citations?view_op=view_citation&hl=zh-CN&user=0-T9nE0AAAAJ&sortby=pubdate&citation_for_view=0-T9nE0AAAAJ:q3CdL3IzO_QC)</b> <br>
+Z Chen,<b>Chaoyang Jiang</b>, M.K.Masood, Y.C.Soh, M.Wu, X. Li<br>
+<i>Deep Learning: Algorithms and Applications</i>, 335-357,2020.
+
+
 1. <b>[Smartphone Sensor Based Human Activity Recognition Using Feature Fusion and Maximum Full A Posteriori](https://ieeexplore.ieee.org/document/8856227)</b> <br>
 Zhenghua Chen, <b>Chaoyang Jiang* </b>, Shili Xiang, Jie Ding, Min Wu, Xiaoli Li<br>
 <i>IEEE Transactions on Insturmentation and Measurement</i>, 2019.(* <b>Corresponding Author</b>)
