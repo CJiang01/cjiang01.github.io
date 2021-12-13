@@ -12,7 +12,7 @@ redirect_from:
 
 * I received the B.Eng. degree in 2009 from China University of Mining and Technology, the M.Eng. degree in 2011 from Harbin Institute of Technology, and the Ph.D. degree in 2017 from Nanyang Technological University (NTU), advised by Prof. [SOH Yeng Chai](http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=EYCSOH). I did my post-doctoral research also in NTU, advised by Prof. [SU Rong](https://www3.ntu.edu.sg/home/rsu/), before I joined the BIT in Nov. 2018. 
 
-* Research Interests: Statistical learning; Information fusion; Applications in intelligent vehicles and smart city. 
+* Research Interests: Localization and control for connected vehicles, SLAM, Localization for unmanned systems, Information fusion for smart city. 
 
 
 # News
