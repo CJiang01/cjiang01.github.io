@@ -104,6 +104,18 @@ Xiaoli Zhou, Hua Li, Yeng Chai Soh, and <b>Chaoyang Jiang</b><br>
 
 ## Conference Publications
 
+1. <b>[A multi-hop distributed indoor localization algorithm for UWB sensor network ](https://ieeexplore.ieee.org/abstract/document/9305442)</b><br>
+   C. He, Y. Xia, C.Yu,<b>C.Jiang</b><br>
+<i>International Conference on Control, Automation, Robotics and Vision (ICARCV)</i>, 2020.
+
+1. <b>[Adaptive Kalman Filter with Linear Equality Road Constraints for Autonomous Vehicle Localization](https://sc.panda321.com/citations?view_op=view_citation&hl=zh-CN&user=0-T9nE0AAAAJ&sortby=pubdate&citation_for_view=0-T9nE0AAAAJ:0N-VGjzr574C)</b><br>
+   Y. Xu, X. Wang,<b>C.Jiang</b><br>
+<i>International Conference on Control, Automation, Robotics and Vision (ICARCV)</i>, 2020.
+
+1. <b>[Learning based Predictive Error Estimation and Compensator Design for Autonomous Vehicle Path Tracking](https://sc.panda321.com/citations?view_op=view_citation&hl=zh-CN&user=0-T9nE0AAAAJ&sortby=pubdate&citation_for_view=0-T9nE0AAAAJ:Ug5p-4gJ2f0C)</b><br>
+   Y. Xu, X. Wang,<b>C.Jiang</b><br>
+<i>IEEE Conference on Industrial Electronics and Applications (ICIEA)</i>, 2020.
+
 1. <b>[Building Occupancy Detection from Carbon-dioxide and Motion Sensors](https://ieeexplore.ieee.org/abstract/document/8581229)</b><br>
 <b>Chaoyang Jiang</b>, Zhenghua Chen, Lih Chieh Png, Korkut Bekiroglu, Seshadhri Srinivasan, Rong Su<br>
 <i>International Conference on Control,  Automation, Robotics and Vision(ICARCV)</i>, 2018.
