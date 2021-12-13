@@ -12,7 +12,7 @@ author_profile: true
        <br> **·** Key Project supported by the Ministry of Science and Technology, China.
        <br> **·** Multi-sensor fusion for the localization of air-ground amphibious vehicles.
        <br> **·** Cooperative localization and mapping in GNSS denied environment.
-       <br> **·** Cooperative trajectory planning for multi-air-ground amphibious vehicles
+       <br> **·** Cooperative trajectory planning for multi-air-ground amphibious vehicles.
 * **Information fusion and environmental cognition for intelligent vehicle (Co-PI)** 2021.01-2024.12    
        <br> **·** Key Project supported by NSFC, China
        <br> **·** Multi-sensor fusion for localization of autonomous vehicles
