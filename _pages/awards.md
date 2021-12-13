@@ -5,9 +5,9 @@ permalink: /awards/
 author_profile: true
 ---
 * **Cooperative localization for vehicles in GNSS denied environment (PI)** 2022.01-2024.12
-       <br> **·** Localization enhancement for INS
-       <br> **·** Multi sensor fusion for robot localization in challenging outdoor environments.
-       <br> **·** Multi-vehicle cooperative for the remove of accelerative error.
+  * Localization enhancement for INS
+  * Multi sensor fusion for robot localization in challenging outdoor environments.
+  * Multi-vehicle cooperative for the remove of accelerative error.
 * **Cooperative localization for air-ground amphibious vehicles (Co-PI)** 2020.11-2024.12
        <br> **·** Key Project supported by the Ministry of Science and Technology, China.
        <br> **·** Multi-sensor fusion for the localization of air-ground amphibious vehicles.
