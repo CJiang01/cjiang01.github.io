@@ -113,7 +113,7 @@ Xiaoli Zhou, Hua Li, Yeng Chai Soh, and <b>Chaoyang Jiang</b><br>
 <i>International Conference on Control, Automation, Robotics and Vision (ICARCV)</i>, 2020.
 
 1. <b>[Learning based Predictive Error Estimation and Compensator Design for Autonomous Vehicle Path Tracking](https://sc.panda321.com/citations?view_op=view_citation&hl=zh-CN&user=0-T9nE0AAAAJ&sortby=pubdate&citation_for_view=0-T9nE0AAAAJ:Ug5p-4gJ2f0C)</b><br>
-   Y. Xu, X. Wang,<b>C.Jiang</b><br>
+   <b>C.Jiang</b>,Y. Xu, X. Wang<br>
 <i>IEEE Conference on Industrial Electronics and Applications (ICIEA)</i>, 2020.
 
 1. <b>[Building Occupancy Detection from Carbon-dioxide and Motion Sensors](https://ieeexplore.ieee.org/abstract/document/8581229)</b><br>
