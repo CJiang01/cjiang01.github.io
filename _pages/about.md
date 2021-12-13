@@ -17,7 +17,7 @@ redirect_from:
 
 # News
 * <b>Aug 24,2021</b> <br>
-Welcome our new group members: Ms. Lan Tianran, Mr. Gao Jiulong,  Mr. Ye Xuetong and Mr. Sun Haibin.
+Welcome our new group members: Mr. Jin Zhe, Ms. Lan Tianran, Mr. Gao Jiulong,  Mr. Ye Xuetong and Mr. Sun Haibin.
 * <b>Sep 20,2020</b> <br>
 Welcome our new group members: Ms. Wang Xingqi, Mr. Xu Yanjie, Ms. Zheng Xiaoni, Mr. Jia Yifei and Mr. Emmanuel O. Bolarinwa.
 * <b>Sep 19,2020</b> <br>
