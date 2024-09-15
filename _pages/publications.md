@@ -17,6 +17,45 @@ M. Eng Thesis：<b>[Optimal filtering of linear systems with state constraints](
                   supervised by Prof. ZHANG Yongan
   
 ## Journal Publications
+1. <b>[Path-Tracking and Lateral Stabilization for Automated Vehicles via Learning-based Robust Model Predictive Control](https://ieeexplore.ieee.org/abstract/document/10638187)</b><br>
+  X Wu, C Wei, H Zhang, <b>C Jiang</b>, C Hu <br>
+<i>IEEE Transactions on Vehicular Technology</i>, 2024.
+
+
+1. <b>[GOReloc: Graph-Based Object-Level Relocalization for Visual SLAM](https://ieeexplore.ieee.org/abstract/document/10634741)</b><br>
+  Y Wang, <b>C Jiang</b>, X Chen <br>
+<i>IEEE Robotics and Automation Letters, 9, 10, 8234-8241</i>, 2024.
+
+
+1. <b>[Range-Aided LiDAR-Inertial Multi-Vehicle Localization and Mapping in Degenerate Environments](https://ieeexplore.ieee.org/abstract/document/10417045)</b><br>
+  Z Jin, <b>C Jiang</b> <br>
+<i>IEEE Transactions on Intelligent Vehicles</i>, 2024.
+
+
+1. <b>[Exact Convex Relaxation-Based Sensor Network Localization Using Noisy Distance Measurements](https://ieeexplore.ieee.org/abstract/document/10187154)</b><br>
+  Y Xia, C Yu, <b>C Jiang</b> <br>
+<i>IEEE Transactions on Instrumentation and Measurement, 72, 1-13</i>, 2023.
+
+1. <b>[Stop-Line-Aided Cooperative Positioning for Connected Vehicles](https://ieeexplore.ieee.org/abstract/document/10005823)</b><br>
+X Wang, <b>C Jiang</b>, S Sheng, Y Xu<br>
+<i>IEEE Transactions on Intelligent Vehicles 8 (2), 1765-1776</i>, 2023.
+
+
+1. <b>[Fault-tolerant control for path-following of independently actuated autonomous vehicles using tube-based model predictive control](https://ieeexplore.ieee.org/abstract/document/9839532)</b> <br>
+X Wu, C Wei, H Tian, W Wang, <b>Chaoyang Jiang</b> <br>
+<i>IEEE Transactions on Intelligent Transportation Systems</i> 23 (11), 20282-20297, 2022.
+
+
+1. <b>[Personalized lane change planning and control by imitation learning from drivers](https://ieeexplore.ieee.org/abstract/document/9786545)</b> <br>
+Hanqing Tian, Chao Wei, <b>Chaoyang Jiang</b>, Zirui Li, Jibin Hu <br>
+<i>IEEE Transactions on Industrial Electronics</i> 70 (4), 3995-4006, 2022.
+
+
+1. <b>[A 3d range-only slam algorithm based on improved derivative ukf](https://www.mdpi.com/2079-9292/11/7/1109)</b> <br>
+C Tang, D Zhou, L Dou, <b>Chaoyang Jiang</b> <br>
+<i>Electronics</i> 11 (7), 1109, 2022.
+
+
 1. <b>[Bayesian filtering for building occupancy estimation from carbon dioxide concentration](https://www.sciencedirect.com/science/article/pii/S0378778819312721)</b> <br>
 <b>Chaoyang Jiang</b>, Zhenghua Chen, Rong Su,  Mustafa K. Masood, Yeng Chai Soh<br>
 <i>Energy and Buildings</i>, vol. 206, 109566, 2020.
@@ -103,6 +142,34 @@ Xiaoli Zhou, Hua Li, Yeng Chai Soh, and <b>Chaoyang Jiang</b><br>
 <i>Journal of Systems Engineering and Electronics</i>, vol. 24, no. 4, pp.674-682, 2013.
 
 ## Conference Publications
+1. <b>[An Integrated LFM/LDC/RSU Positioning Method for Autonomous Vehicles](https://ieeexplore.ieee.org/abstract/document/10552564)</b><br>
+  B Wang, X Gao, J Gao, S Sheng, C Zhang, <b>C Jiang</b> <br>
+<i>7th International Symposium on Autonomous Systems (ISAS), 1-6</i>, 2024.
+
+1. <b>[Multi-vehicle cooperative localization and mapping with the assistance of dynamic beacons in GNSS-denied environment](https://ieeexplore.ieee.org/abstract/document/10552478)</b><br>
+  C Zhang, <b>C Jiang</b>, S Liu <br>
+<i>7th International Symposium on Autonomous Systems (ISAS), 1-7</i>, 2024.
+
+1. <b>[Shuffled Differentially Private Federated Learning for Time Series Data Analytics](https://ieeexplore.ieee.org/abstract/document/10241529)</b><br>
+  C Huang, <b>C Jiang</b>, Z Chen <br>
+<i>IEEE 18th Conference on Industrial Electronics and Applications (ICIEA)</i>, 2023.
+
+1. <b>[Line-Constrained Trajectory Correction for Indoor Pedestrian Positioning](https://ieeexplore.ieee.org/abstract/document/10241840)</b><br>
+   H Sun, Y Xu, G Chang, <b>C Jiang</b> <br>
+<i>IEEE 18th Conference on Industrial Electronics and Applications (ICIEA)</i>, 2023.
+
+1. <b>[IMU-Assisted Calibration of Visual Observation for Vehicle Lateral Positioning](https://ieeexplore.ieee.org/abstract/document/10241939)</b><br>
+  J Gao, S Sheng, X Ye, T Lan, <b>C Jiang</b> <br>
+<i>IEEE 18th Conference on Industrial Electronics and Applications (ICIEA)</i>, 2023.
+
+1. <b>[SLD-MAP: Surfel-Line Real-time Dense Mapping](https://ieeexplore.ieee.org/abstract/document/10004327)</b><br>
+   X Zheng, X Ye, Z Jin, T Lan, <b>C Jiang</b><br>
+<i>17th International Conference on Control, Automation, Robotics and Vision (ICARCV), 
+494-499</i>, 2022.
+
+1. <b>[Approximated Long Horizon MPC with Hindsight for Autonomous Vehicles Path Tracking ](https://ieeexplore.ieee.org/abstract/document/9274850)</b><br>
+   <b>C.Jiang</b>, J Zhai, H Tian, C Wei, J Hu<br>
+<i>3rd International Conference on Unmanned Systems (ICUS), 696-701</i>, 2020.
 
 1. <b>[A multi-hop distributed indoor localization algorithm for UWB sensor network ](https://ieeexplore.ieee.org/abstract/document/9305442)</b><br>
    C. He, Y. Xia, C.Yu,<b>C.Jiang</b><br>
