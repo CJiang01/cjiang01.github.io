@@ -4,6 +4,11 @@ title: "Selected Research Project"
 permalink: /awards/
 author_profile: true
 ---
+* **Large-scale Cooperative Precision Navigation of Robots for Underground Environments (PI)** 2021.12-2022.12
+  * 
+  * .
+  * .
+
 * **Cooperative localization for vehicles in GNSS denied environment (PI)** 2022.01-2024.12
   * Localization enhancement for INS
   * Multi sensor fusion for robot localization in challenging outdoor environments.
