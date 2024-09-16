@@ -16,11 +16,6 @@ redirect_from:
 
 
 # News
-* <b>Oct 29,2024</b> <br>
-  Our paper entitled "[]()" has been published in <i> </i>.
-
-
-  
 * <b>Aug 27,2024</b> <br>
 Welcome our new group members: Mr. Lv Wenbo, Mr. Wen Kai, Mr. Huang Rui, Mr. Zhao Wujie, and Mr. Sheng Shuxuan.
 * <b>Oct 16,2024</b> <br>
