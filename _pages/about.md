@@ -16,6 +16,12 @@ redirect_from:
 
 
 # News
+* <b>Aug 27,2024</b> <br>
+Welcome our new group members: Mr. Lv Wenbo, Mr. Wen Kai, Mr. Huang Rui, Mr. Zhao Wujie, and Mr. Sheng Shuxuan.
+* <b>Aug 24,2023</b> <br>
+Welcome our new group members: Ms. Wang Yutong, Mr. Tian Dongze and Mr. Wang Lingfeng.
+* <b>Aug 26,2022</b> <br>
+Welcome our new group members: Mr. Zhang Chenyang and Mr. Wu Qizheng.
 * <b>Aug 24,2021</b> <br>
 Welcome our new group members: Mr. Jin Zhe, Ms. Lan Tianran, Mr. Gao Jiulong,  Mr. Ye Xuetong and Mr. Sun Haibin.
 * <b>Sep 20,2020</b> <br>
