@@ -16,12 +16,33 @@ redirect_from:
 
 
 # News
+* <b>Oct 29,2024</b> <br>
+  Our paper entitled "[]()" has been published in <i> </i>.
+
+
+  
 * <b>Aug 27,2024</b> <br>
 Welcome our new group members: Mr. Lv Wenbo, Mr. Wen Kai, Mr. Huang Rui, Mr. Zhao Wujie, and Mr. Sheng Shuxuan.
+* <b>Oct 16,2024</b> <br>
+Our paper entitled "[Path-Tracking and Lateral Stabilization for Automated Vehicles via Learning-based Robust Model Predictive Control](https://ieeexplore.ieee.org/abstract/document/10638187)" has been published in <i>IEEE Transactions on Vehicular Technology </i>.
+* <b>Oct 13,2024</b> <br>
+Our paper entitled "[GOReloc: Graph-Based Object-Level Relocalization for Visual SLAM](https://ieeexplore.ieee.org/abstract/document/10634741)" has been published in <i>IEEE Robotics and Automation Letters </i>.
+* <b>Jan 30,2024</b> <br>
+Our paper entitled "[Range-Aided LiDAR-Inertial Multi-Vehicle Localization and Mapping in Degenerate Environments](https://ieeexplore.ieee.org/abstract/document/10417045)" has been published in <i>IEEE Transactions on Intelligent Vehicles </i>.
 * <b>Aug 24,2023</b> <br>
 Welcome our new group members: Ms. Wang Yutong, Mr. Tian Dongze and Mr. Wang Lingfeng.
+* <b>Jul 19,2023</b> <br>
+Our paper entitled "[Exact Convex Relaxation-Based Sensor Network Localization Using Noisy Distance Measurements](https://ieeexplore.ieee.org/abstract/document/10187154)" has been published in <i>IEEE Transactions on Instrumentation and Measurement </i>.
+* <b>Jan 4,2023</b> <br>
+Our paper entitled "[Stop-Line-Aided Cooperative Positioning for Connected Vehicles](https://ieeexplore.ieee.org/abstract/document/10005823)" has been published in <i>IEEE Transactions on Intelligent Vehicles </i>.
 * <b>Aug 26,2022</b> <br>
 Welcome our new group members: Mr. Zhang Chenyang and Mr. Wu Qizheng.
+* <b>Jul 25,2022</b> <br>
+Our paper entitled "[Fault-Tolerant Control for Path-Following of Independently Actuated Autonomous Vehicles Using Tube-Based Model Predictive Control](https://ieeexplore.ieee.org/abstract/document/9839532)" has been published in <i>IEEE Transactions on Intelligent Transportation Systems </i>.
+* <b>Jun 1,2022</b> <br>
+Our paper entitled "[Personalized Lane Change Planning and Control By Imitation Learning From Drivers](https://ieeexplore.ieee.org/abstract/document/9786545)" has been published in <i>IEEE Transactions on Industrial Electronics </i>.
+* <b>Mar 31,2022</b> <br>
+Our paper entitled "[A 3D Range-Only SLAM Algorithm Based on Improved Derivative UKF](https://www.mdpi.com/2079-9292/11/7/1109)" has been published in <i>Electronics </i>.
 * <b>Aug 24,2021</b> <br>
 Welcome our new group members: Mr. Jin Zhe, Ms. Lan Tianran, Mr. Gao Jiulong,  Mr. Ye Xuetong and Mr. Sun Haibin.
 * <b>Sep 20,2020</b> <br>
