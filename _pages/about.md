@@ -16,12 +16,12 @@ redirect_from:
 
 
 # News
-* <b>Aug 27,2024</b> <br>
-Welcome our new group members: Mr. Lv Wenbo, Mr. Wen Kai, Mr. Huang Rui, Mr. Zhao Wujie, and Mr. Sheng Shuxuan.
 * <b>Oct 16,2024</b> <br>
 Our paper entitled "[Path-Tracking and Lateral Stabilization for Automated Vehicles via Learning-based Robust Model Predictive Control](https://ieeexplore.ieee.org/abstract/document/10638187)" has been published in <i>IEEE Transactions on Vehicular Technology </i>.
 * <b>Oct 13,2024</b> <br>
 Our paper entitled "[GOReloc: Graph-Based Object-Level Relocalization for Visual SLAM](https://ieeexplore.ieee.org/abstract/document/10634741)" has been published in <i>IEEE Robotics and Automation Letters </i>.
+* <b>Aug 27,2024</b> <br>
+Welcome our new group members: Mr. Lv Wenbo, Mr. Wen Kai, Mr. Huang Rui, Mr. Zhao Wujie, and Mr. Sheng Shuxuan.
 * <b>Jan 30,2024</b> <br>
 Our paper entitled "[Range-Aided LiDAR-Inertial Multi-Vehicle Localization and Mapping in Degenerate Environments](https://ieeexplore.ieee.org/abstract/document/10417045)" has been published in <i>IEEE Transactions on Intelligent Vehicles </i>.
 * <b>Aug 24,2023</b> <br>
