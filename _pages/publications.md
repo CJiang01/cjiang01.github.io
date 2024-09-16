@@ -27,6 +27,10 @@ M. Eng Thesis：<b>[Optimal filtering of linear systems with state constraints](
 <i>IEEE Robotics and Automation Letters, 9, 10, 8234-8241</i>, 2024.
 
 
+1. <b>[无人车蛙跳协同的激光SLAM退化校正](http://www.co-journal.com/CN/10.12382/bgxb.2024.0161)</b><br>
+  金浙， <b>蒋朝阳</b> <br>
+<i>兵工学报</i>, 2024.
+
 1. <b>[Range-Aided LiDAR-Inertial Multi-Vehicle Localization and Mapping in Degenerate Environments](https://ieeexplore.ieee.org/abstract/document/10417045)</b><br>
   Z Jin, <b>C Jiang</b> <br>
 <i>IEEE Transactions on Intelligent Vehicles</i>, 2024.
@@ -41,10 +45,19 @@ X Wang, <b>C Jiang</b>, S Sheng, Y Xu<br>
 <i>IEEE Transactions on Intelligent Vehicles 8 (2), 1765-1776</i>, 2023.
 
 
+1. <b>[分布式多车协同视觉 SLAM 系统](https://www.qichegongcheng.com/EN/abstract/abstract1365.shtml)</b><br>
+<b>蒋朝阳</b>， 兰天然， 郑晓妮， 高九龙， 叶学通<br>
+<i>汽车工程 44 (12), 1809-1817</i>, 2022.
+
+
 1. <b>[Fault-tolerant control for path-following of independently actuated autonomous vehicles using tube-based model predictive control](https://ieeexplore.ieee.org/abstract/document/9839532)</b> <br>
 X Wu, C Wei, H Tian, W Wang, <b>Chaoyang Jiang</b> <br>
 <i>IEEE Transactions on Intelligent Transportation Systems</i> 23 (11), 20282-20297, 2022.
 
+
+1. <b>[视觉与单路侧单元辅助的车辆定位方法](https://www.qichegongcheng.com/CN/10.19562/j.chinasae.qcgc.2022.07.007)</b><br>
+盛树轩， 荆崇波， <b>蒋朝阳</b> <br>
+<i>汽车工程 44 (7), 1009-1017</i>, 2022.
 
 1. <b>[Personalized lane change planning and control by imitation learning from drivers](https://ieeexplore.ieee.org/abstract/document/9786545)</b> <br>
 Hanqing Tian, Chao Wei, <b>Chaoyang Jiang</b>, Zirui Li, Jibin Hu <br>
@@ -149,6 +162,10 @@ Xiaoli Zhou, Hua Li, Yeng Chai Soh, and <b>Chaoyang Jiang</b><br>
 1. <b>[Multi-vehicle cooperative localization and mapping with the assistance of dynamic beacons in GNSS-denied environment](https://ieeexplore.ieee.org/abstract/document/10552478)</b><br>
   C Zhang, <b>C Jiang</b>, S Liu <br>
 <i>7th International Symposium on Autonomous Systems (ISAS), 1-7</i>, 2024.
+
+1. <b>[VOOM: Robust Visual Object Odometry and Mapping using Hierarchical Landmarks](https://ieeexplore.ieee.org/document/10611684)</b><br>
+  Y Wang, <b>C Jiang</b>, X Chen <br>
+<i>IEEE International Conference on Robotics and Automation (ICRA)</i>, 2024.
 
 1. <b>[Shuffled Differentially Private Federated Learning for Time Series Data Analytics](https://ieeexplore.ieee.org/abstract/document/10241529)</b><br>
   C Huang, <b>C Jiang</b>, Z Chen <br>
