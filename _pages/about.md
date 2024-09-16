@@ -16,12 +16,16 @@ redirect_from:
 
 
 # News
-* <b>Oct 16,2024</b> <br>
-Our paper entitled "[Path-Tracking and Lateral Stabilization for Automated Vehicles via Learning-based Robust Model Predictive Control](https://ieeexplore.ieee.org/abstract/document/10638187)" has been published in <i>IEEE Transactions on Vehicular Technology </i>.
-* <b>Oct 13,2024</b> <br>
-Our paper entitled "[GOReloc: Graph-Based Object-Level Relocalization for Visual SLAM](https://ieeexplore.ieee.org/abstract/document/10634741)" has been published in <i>IEEE Robotics and Automation Letters </i>.
 * <b>Aug 27,2024</b> <br>
 Welcome our new group members: Mr. Lv Wenbo, Mr. Wen Kai, Mr. Huang Rui, Mr. Zhao Wujie, and Mr. Sheng Shuxuan.
+* <b>Aug 15,2024</b> <br>
+Our paper entitled "[Path-Tracking and Lateral Stabilization for Automated Vehicles via Learning-based Robust Model Predictive Control](https://ieeexplore.ieee.org/abstract/document/10638187)" has been published in <i>IEEE Transactions on Vehicular Technology </i>.
+* <b>Aug 13,2024</b> <br>
+Our paper entitled "[GOReloc: Graph-Based Object-Level Relocalization for Visual SLAM](https://ieeexplore.ieee.org/abstract/document/10634741)" has been published in <i>IEEE Robotics and Automation Letters </i>.
+* <b>15 Jul,2024</b> <br>
+Our paper entitled "[无人车蛙跳协同的激光SLAM退化校正](http://www.co-journal.com/CN/10.12382/bgxb.2024.0161)" has been published in <i>兵工学报</i>.
+* <b>May 15,2024</b> <br>
+Our paper  entitled "[VOOM: Robust Visual Object Odometry and Mapping using Hierarchical Landmarks](https://ieeexplore.ieee.org/document/10611684)" was presented in 2024 IEEE International Conference on Robotics and Automation，ICRA, Yokohama, Japan.
 * <b>Jan 30,2024</b> <br>
 Our paper entitled "[Range-Aided LiDAR-Inertial Multi-Vehicle Localization and Mapping in Degenerate Environments](https://ieeexplore.ieee.org/abstract/document/10417045)" has been published in <i>IEEE Transactions on Intelligent Vehicles </i>.
 * <b>Aug 24,2023</b> <br>
