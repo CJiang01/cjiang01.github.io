@@ -54,7 +54,7 @@ author_profile: true
   * Subspace projection optimization for optimal sensing locations design.
   * Sparse indoor sensors are used to estimate indoor thermal map and airflow patterns.
   * Indoor thermal map and airflow patterns are used to assess the building energy efficiency.   
-* **State constrained optimal filtering**  2009.09-2011.06
+* **Optimal filtering for systems with sate constraints**  2009.09-2011.06
   * State constraints can be used to improve the state estimates.
   * Linear equality state constraints correspond to a determined subspace of the system state space.
   * An unified framework for state constrained optimal filtering.   
